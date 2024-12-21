@@ -1,0 +1,16 @@
+G:\C#projects\UNIVERSITY\HomeworkOn6dotnet\bin\Debug\net6.0-windows\HomeworkOn6dotnet.exe
+G:\C#projects\UNIVERSITY\HomeworkOn6dotnet\bin\Debug\net6.0-windows\HomeworkOn6dotnet.deps.json
+G:\C#projects\UNIVERSITY\HomeworkOn6dotnet\bin\Debug\net6.0-windows\HomeworkOn6dotnet.runtimeconfig.json
+G:\C#projects\UNIVERSITY\HomeworkOn6dotnet\bin\Debug\net6.0-windows\HomeworkOn6dotnet.dll
+G:\C#projects\UNIVERSITY\HomeworkOn6dotnet\bin\Debug\net6.0-windows\HomeworkOn6dotnet.pdb
+G:\C#projects\UNIVERSITY\HomeworkOn6dotnet\obj\Debug\net6.0-windows\HomeworkOn6dotnet.Form1.resources
+G:\C#projects\UNIVERSITY\HomeworkOn6dotnet\obj\Debug\net6.0-windows\HomeworkOn6dotnet.csproj.GenerateResource.cache
+G:\C#projects\UNIVERSITY\HomeworkOn6dotnet\obj\Debug\net6.0-windows\HomeworkOn6dotnet.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#projects\UNIVERSITY\HomeworkOn6dotnet\obj\Debug\net6.0-windows\HomeworkOn6dotnet.AssemblyInfoInputs.cache
+G:\C#projects\UNIVERSITY\HomeworkOn6dotnet\obj\Debug\net6.0-windows\HomeworkOn6dotnet.AssemblyInfo.cs
+G:\C#projects\UNIVERSITY\HomeworkOn6dotnet\obj\Debug\net6.0-windows\HomeworkOn6dotnet.csproj.CoreCompileInputs.cache
+G:\C#projects\UNIVERSITY\HomeworkOn6dotnet\obj\Debug\net6.0-windows\HomeworkOn6dotnet.dll
+G:\C#projects\UNIVERSITY\HomeworkOn6dotnet\obj\Debug\net6.0-windows\refint\HomeworkOn6dotnet.dll
+G:\C#projects\UNIVERSITY\HomeworkOn6dotnet\obj\Debug\net6.0-windows\HomeworkOn6dotnet.pdb
+G:\C#projects\UNIVERSITY\HomeworkOn6dotnet\obj\Debug\net6.0-windows\HomeworkOn6dotnet.genruntimeconfig.cache
+G:\C#projects\UNIVERSITY\HomeworkOn6dotnet\obj\Debug\net6.0-windows\ref\HomeworkOn6dotnet.dll
